@@ -15,7 +15,7 @@ git init
 ```
 2. Clone the repo
 ```sh
-git clone
+git clone https://github.com/rhamseyswork/ISSACCharter.Programming-Club.Snake
 ```
 3. Install Dependencies
 ```sh
