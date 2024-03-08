@@ -11,7 +11,7 @@ Python
 4. Follow the prompts to play the game snake
 
 HTML
-1.open snake.html
+1. Open snake.html
 
 JAVA
 1. Compile the program using the command: javac snake.java
