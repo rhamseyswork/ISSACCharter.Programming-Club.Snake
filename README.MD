@@ -47,7 +47,7 @@ C++
 
 
 
-##Usage
+## Usage
 
 To play the Snake game, follow these simple steps:
 
