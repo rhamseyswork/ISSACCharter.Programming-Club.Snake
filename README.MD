@@ -7,8 +7,6 @@ This is how you access the [HTML Snake](https://rhamseyswork.github.io/ISSACChar
 
 
 
-#Link
-
 ## Get Started
 
 1. Initialize git
